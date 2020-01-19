@@ -1,0 +1,3 @@
+To kill localhost process responding on port 8050 on OSX
+---------------------------------------------------------
+sudo lsof -i tcp:8050
